@@ -1,2 +1,0 @@
-# CharAppTask
-Chart App Task
